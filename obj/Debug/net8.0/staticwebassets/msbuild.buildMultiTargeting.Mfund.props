@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mfund.props" />
+</Project>

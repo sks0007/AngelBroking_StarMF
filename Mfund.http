@@ -1,0 +1,6 @@
+@Mfund_HostAddress = http://localhost:5111
+
+GET {{Mfund_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
